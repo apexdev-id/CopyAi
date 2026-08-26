@@ -1,4 +1,4 @@
-# 🚀 AI Text Cleaner
+# AI Text Cleaner
 
 Aplikasi Python untuk membersihkan teks hasil AI agar lebih rapi, natural, dan siap digunakan.
 
@@ -7,7 +7,7 @@ Dibuat dengan 2 versi UI:
 - **ttkbootstrap (Tkinter version)**
 
 
-## ✨ Features
+## Features
 
 -  Remove excessive spaces  
 -  Clean AI formatting (bullet, symbol, dll)  
